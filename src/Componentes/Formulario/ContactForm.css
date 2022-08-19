@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input{
+max-width: 300px;
+display: block;
+margin: 10px auto;
+}
+
+textarea{
+max-width: 300px;
+display: block;
+margin: 10px auto;
+}
+
+p{
+    color: red;
+    font-weight: bolder;
+}

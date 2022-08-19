@@ -1,0 +1,6 @@
+Componente MyPage:  Componenete Dark/Light, inicicar Secion y Lenguaje, trabajado con props
+
+Componente MyPageContext:  Componenete Dark/Light, inicicar Secion y Lenguaje, trabajado con Context
+
+Trabajar con Context cuando una misma prop es pasado a muchisimos componentes como es el Dark/Light o Lenguaje
+

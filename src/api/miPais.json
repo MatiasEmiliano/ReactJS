@@ -1,0 +1,109 @@
+{
+    "Provincias": [
+        {
+            "nombre": "Buenos Aires"
+        },
+        {
+            "nombre": "Cordoba"
+        }
+    ],
+    "Buenos%20Aires":[
+        {
+            "nombre": "CABA"
+        },
+        {
+            "nombre": "San Isidro"
+        },
+        {
+            "nombre": "Quilmes"
+        }
+    ],
+    "Cordoba":[
+        {
+            "nombre": "Cordoba Capital"
+        },
+        {
+            "nombre": "Villa General Belgrano"
+        },
+        {
+            "nombre": "La Falda"
+        }
+    ],
+    "CABA":[
+        {
+            "nombre": "Villa Devoto"
+        },
+        {
+            "nombre": "Belgrano"
+        },
+        {
+            "nombre": "San Nicolas"
+        },
+        {
+            "nombre": "Mataderos"
+        },
+        {
+            "nombre": "Parque Patricios"
+        },
+        {
+            "nombre": "Pompeya"
+        }
+    ],
+    "San%20Isidro":[
+        {
+            "nombre": "Martinez"
+        },
+        {
+            "nombre": "Acassuso"
+        },
+        {
+            "nombre": "Beccar"
+        }
+    ],
+    "Quilmes":[
+        {
+            "nombre": "Avellaneda"
+        },
+        {
+            "nombre": "Barrio del Sur"
+        },
+        {
+            "nombre": "Dock Sud"
+        }
+    ],
+    "Cordoba%20Capital":[
+        {
+            "nombre": "Cordoba la Linda"
+        },
+        {
+            "nombre": "Belgrano Capital"
+        },
+        {
+            "nombre": "Villa Rosa Cba"
+        }
+    ],
+    "Villa%20General%20Belgrano":[
+        {
+            "nombre": "Los Reartes"
+        },
+        {
+            "nombre": "La Cumbresita"
+        },
+        {
+            "nombre": "VGB Centro"
+        }
+    ],
+    "La%20Falda":[
+        {
+            "nombre": "Altas Cumbres"
+        },
+        {
+            "nombre": "Falda Alta"
+        },
+        {
+            "nombre": "Centro Falda"
+        }
+    ]
+}
+
+ 
